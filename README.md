@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edouard Paillard @EdPaillard
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Admin Sys
 - 📫 How to reach me ed.paillard@gmail.com
 
