@@ -12,6 +12,21 @@ I'll try to display my work here, hopping you'll appreciate.
 
 Thanks for visiting.
 
+#Technologies
+- WebDev [Html, css, JavaScript, NodeJS, Express, ReactsJS, MongoAtlas, Java, SpringBoot, Socket.io, PHP, Symfony] (https://github.com/EdPaillard/Dashboard__v2)(https://github.com/EdPaillard/BougainvilleStudio_v2)(https://github.com/EdPaillard/EpitechZeldOut)
+- Developpement [Java, C#, Unity]
+- Mobile [Flutter]
+- Admin Sys / DevOps [Linux, Network, Docker, Jenkins, Kubernetes, Ansible]
+
+##Main focus
+- If I'm honest, I appreciate basically everything I touched regarding informatic. I just started a job as linux administrator system, and I kinda like the DevOps orientation, so right now I'm mainly focusing on administration stuff.
+- I'm still working on a personnal project [Bougainville](https://github.com/EdPaillard/BougainvilleStudio_v2), mainly using ReactJS and NodeJS.
+- Last but not least, for the end-year project of Epitech, we'd like to develop a game using Unity, and, of course, I'd like a lot to develop my own game, with a lot of ideas to test.
+
+##Learning
+- For the current Epitech project, I'm learning PHP/Symfony as well as Angular and Typescript.
+- For the game development, I'm learning C# and Unity
+- For the Admin/DevOps thing, I'm focusing on Ansible, Kubernetes and Python.
 
 <!---
 Squallichon/Squallichon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
