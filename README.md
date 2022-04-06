@@ -13,10 +13,10 @@ I'll try to display my work here, hopping you'll appreciate.
 Thanks for visiting.
 
 #Technologies
-- WebDev [Html, css, JavaScript, NodeJS, Express, ReactsJS, MongoAtlas, Java, SpringBoot, Socket.io, PHP, Symfony] (https://github.com/EdPaillard/Dashboard__v2)(https://github.com/EdPaillard/BougainvilleStudio_v2)(https://github.com/EdPaillard/EpitechZeldOut)
-- Developpement [Java, C#, Unity]
-- Mobile [Flutter]
-- Admin Sys / DevOps [Linux, Network, Docker, Jenkins, Kubernetes, Ansible]
+- WebDev [Html][css][JavaScript][NodeJS][Express][ReactsJS][MongoAtlas][Java][SpringBoot][Socket.io][PHP][Symfony] 
+- Developpement [Java][C#][Unity] (https://github.com/EdPaillard/EpitechZeldOut)
+- Mobile [Flutter] (https://flutter.com)
+- Admin Sys / DevOps [Linux][Network][Docker][Jenkins][Kubernetes][Ansible] (https://github.com/EdPaillard/Dashboard__v2)(https://github.com/EdPaillard/BougainvilleStudio_v2)
 
 ##Main focus
 - If I'm honest, I appreciate basically everything I touched regarding informatic. I just started a job as linux administrator system, and I kinda like the DevOps orientation, so right now I'm mainly focusing on administration stuff.
